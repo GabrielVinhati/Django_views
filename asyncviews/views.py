@@ -30,3 +30,5 @@ from django.http import HttpResponse
 
 def home_view(request):
     return HttpResponse("Hello, world")
+
+# async_views/async_views/asyncviews/urls.py
